@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\haruk\Downloads\Car Garage\Includes\FreeImage.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\haruk\Downloads\Car Garage\Project2\Source.cpp(163,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\haruk\Downloads\Car Garage\Project2\Source.cpp(170,34): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\haruk\Downloads\Car Garage\Project2\Source.cpp(188,9): warning C4101: 'blinn': unreferenced local variable
+C:\Users\haruk\Downloads\Car Garage\Project2\Source.cpp(189,9): warning C4101: 'texture1': unreferenced local variable
+C:\Users\haruk\Downloads\Car Garage\Project2\Source.cpp(317,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\haruk\Downloads\Car Garage\Project2\Source.cpp(320,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\haruk\Downloads\Car Garage\Project2\Source.cpp(323,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\haruk\Downloads\Car Garage\Project2\Source.cpp(391,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const char **'
+  Project2.vcxproj -> C:\Users\haruk\Downloads\Car Garage\x64\Debug\Project2.exe
